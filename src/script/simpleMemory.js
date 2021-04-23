@@ -25,7 +25,7 @@ if (initCheck()) {
         '            <!-- 日历 -->' +
         '            <span id="calendar-box"></span>' +
         '            <!-- 找找看 -->' +
-        '            <div class="m-list-title"><span>找找看</span></div>' +
+        '            <div class="m-list-title"><span>找找看AAcdsa范德萨发生</span></div>' +
         '            <div class="m-icon-list" id="sb-sidebarSearchBox"></div>' +
         '            <!-- 积分与排名 -->' +
         '            <div class="m-list-title"><span>积分排名<span class="iconfont icon-select m-list-title-select"></span></span></div>' +
@@ -380,7 +380,7 @@ function init() {
     var url = window.location.href,tmp = [];
     tmp = url.split("/");
     var user = tmp[3];
-    var navListHtml = '<li><a href="https://www.cnblogs.com/'+user+'/" target="_self"><i class="iconfont icon-homepage_fill"></i>首页2222</a></li>' +
+    var navListHtml = '<li><a href="https://www.cnblogs.com/'+user+'/" target="_self"><i class="iconfont icon-homepage_fill"></i>首页</a></li>' +
         '<li><a href="https://msg.cnblogs.com/send/'+user+'" target="_blank"><i class="iconfont icon-zhifeiji"></i>联系</a></li>' +
         '<li><a href="javascript:void(0)" onclick="$(\'#blog_nav_rss\').trigger(\'click\');" data-rss="https://www.cnblogs.com/'+user+'/rss/"><i class="iconfont icon-qinmifu"></i>订阅</a></li>' +
         '<li><a href="https://i.cnblogs.com/" target="_blank"><i class="iconfont icon-setup_fill"></i>管理</a></li>';
