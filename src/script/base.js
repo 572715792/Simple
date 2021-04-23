@@ -152,8 +152,6 @@ function Base() {
             $('#under_post_news').show();
         }
 
-        // 控制台输出
-        tools.consoleText(window.cnblogsConfig.consoleList, 'banner');
     };
 
 //---------------------------------- 逻辑处理 --------------------------------------//
