@@ -25,7 +25,7 @@ if (initCheck()) {
         '            <!-- 日历 -->' +
         '            <span id="calendar-box"></span>' +
         '            <!-- 找找看 -->' +
-        '            <div class="m-list-title"><span>找找看AAcdsa范德萨发生</span></div>' +
+        '            <div class="m-list-title"><span>找找看AAcdsa范德萨发生11</span></div>' +
         '            <div class="m-icon-list" id="sb-sidebarSearchBox"></div>' +
         '            <!-- 积分与排名 -->' +
         '            <div class="m-list-title"><span>积分排名<span class="iconfont icon-select m-list-title-select"></span></span></div>' +
